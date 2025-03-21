@@ -1,5 +1,3 @@
-# Hi
-
-### Hello
+# Hello
 
 Sample change script
